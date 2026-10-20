@@ -6,10 +6,11 @@ public class LogicalOperator {
 
         int age = 16;
         boolean isJhs = age >= 13 && age <= 17;
+        System.out.println(isJhs);
 
         int age2 = 18;
         boolean isAdult = (age > 18);
-        System.out.println(isAdult);
+        // System.out.println(isAdult);
 
         int num = 10;
         int num2 = 20;

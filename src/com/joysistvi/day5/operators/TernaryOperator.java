@@ -12,12 +12,12 @@ public class TernaryOperator {
         int num1 = 10;
         int num2 = 20;
         int bigger = (num1 > num2) ? num1 : num2;
-        // System.out.println("Bigger number " + bigger);
+        System.out.println("Bigger number " + bigger);
 
         int number = 2;
 
         boolean isEvenNumber = number % 2 == 0;
-        System.out.println(isEvenNumber);
+        // System.out.println(isEvenNumber);
 
         // divide number from 2 and get the remainder
         // check if the remainder is 0
