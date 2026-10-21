@@ -12,10 +12,11 @@ public class Activity4_DelosSantos {
             Age: 60 - 100 → Senior
          */
 
-        int age = 25;
+        int age = 101;
         String result = "";
 
         if (!(age >= 0 && age <= 100)) {
+            System.out.println("Invalid Age");
             return;
         } else if (age <= 2) {
             result = "Baby";
