@@ -16,6 +16,7 @@ public class Activity4_DelosSantos {
         String result = "";
 
         if (!(age >= 0 && age <= 100)) {
+            System.out.println("Age: " + age);
             System.out.println("Invalid Age");
             return;
         } else if (age <= 2) {
