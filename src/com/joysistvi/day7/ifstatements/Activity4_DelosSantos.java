@@ -1,4 +1,4 @@
-package com.joysistvi.day6.ifstatements;
+package com.joysistvi.day7.ifstatements;
 
 public class Activity4_DelosSantos {
     public static void main(String[] args) {
