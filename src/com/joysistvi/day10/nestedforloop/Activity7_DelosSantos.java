@@ -14,6 +14,7 @@ public class Activity7_DelosSantos {
             }
             System.out.println();
             System.out.println("☆*: .｡. o(≧▽≦)o .｡.:*☆");
+            System.out.println();
         }
 
     }
