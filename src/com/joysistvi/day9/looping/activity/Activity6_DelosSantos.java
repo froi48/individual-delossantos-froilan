@@ -147,7 +147,7 @@ public class Activity6_DelosSantos {
                     System.out.println("Exiting....");
                     multiplicationTable = false;
                 }
-                default -> System.out.println("Invalid Input! Please choose from 1 - 101");
+                default -> System.out.println("Invalid Input! Please choose from 1 - 10");
             }
         } while (multiplicationTable);
     }
